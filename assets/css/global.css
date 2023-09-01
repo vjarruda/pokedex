@@ -12,11 +12,11 @@ body {
     width: 100vw;
     padding: 1rem;
     background-color: #fff;
-    
+
 }
 
-@media screen and (min-width: 992px){
-    .content{
+@media screen and (min-width: 992px) {
+    .content {
         max-width: 992px;
         height: auto;
         margin: 1rem auto;
@@ -28,8 +28,3 @@ body {
 .content h1 {
     margin: 0;
 }
-
-
-
-
-
